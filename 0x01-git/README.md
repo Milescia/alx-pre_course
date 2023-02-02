@@ -25,7 +25,6 @@ Read or watch:
 Resources to learn Git
 
 About READMEs
-
 How to write a Git commit message
 
 Resources for advanced tasks (Read only after finishing the mandatory tasks):
